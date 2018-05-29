@@ -1,0 +1,7 @@
+[package]
+name = "websocket_sync"
+version = "0.1.0"
+authors = ["Kevin J. Lynagh <kevin@keminglabs.com>"]
+
+[dependencies]
+websocket = "0.20.2"
